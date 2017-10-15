@@ -33,7 +33,6 @@ Ticker MQTT_reconnect_timer;
 #define MQTT_LAST_WILL "OFF"
 #define MQTT_QOS 1
 #define MQTT_RETAIN true
-#define MQTT_MOTION_STATUS_TOPIC "motion/toilet/status"
 
 // Pin mapping
 #define RELAY_PIN 12
