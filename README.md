@@ -18,3 +18,5 @@ Custom firmware for SONOFF equipped with a PIR motion sensor
 * Debug Level: None
 * Reset Method: ck
 * Upload Speed: 115200
+
+NOTE: newer SONOFFS require the flashing mode to be set to DOUT
