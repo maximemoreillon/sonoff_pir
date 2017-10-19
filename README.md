@@ -1,5 +1,6 @@
 # SONOFF PIR
-Custom firmware for SONOFF equipped with a PIR motion sensor
+
+Custom firmware for SONOFFs fitted with a PIR motion sensor.
 
 
 ## Requirements
