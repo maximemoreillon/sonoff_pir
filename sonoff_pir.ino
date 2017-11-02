@@ -41,7 +41,7 @@ Ticker MQTT_reconnect_timer;
 #define PIR_PIN 14
 
 // Other variables
-char* relay_state = RELAY_INITIAL_STATE;
+char* relay_state = INITIAL_STATE;
 int last_PIR_reading;
 
 
