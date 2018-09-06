@@ -1,6 +1,7 @@
 # SONOFF PIR
 
 Custom firmware for SONOFFs fitted with a PIR motion sensor.
+The PIR motion sensor is connected to the exposed pin of SONOFF.
 
 
 ## Requirements
